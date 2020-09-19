@@ -1,0 +1,1 @@
+# Non-Contact-Type-Digital-Tachometer

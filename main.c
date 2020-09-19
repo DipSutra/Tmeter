@@ -1,4 +1,4 @@
-#include<reg51.h>
+#include<reg51.h>//REG51.H Header file for generic 80C51 and 80C31 microcontroller
 #include<stdio.h>
 #define LCDPort P1 // LDCPort (PIN 7 to PIN 14) of LCD is Connected to P1(PIN 1 to PIN 8) of 8051
 sbit RS=P0^0; // RS pin of LCD (PIN 4) is Connected to P0.0 (PIN 39) of 8051
